@@ -1,6 +1,6 @@
 # Ex.No: 1 B                    CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 09/03/2024
-
+# Date: 21/08/2024
+# Name : Ragul VK
 ## AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
 
